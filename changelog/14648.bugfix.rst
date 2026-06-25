@@ -1,0 +1,1 @@
+Top-level keys in ``pytest.toml`` and ``.pytest.toml`` without a ``[pytest]`` section header are now treated as pytest configuration instead of being silently ignored.
